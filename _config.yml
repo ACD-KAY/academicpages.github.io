@@ -12,9 +12,9 @@ title                    : "MingkaiLi / postgraduate"
 title_separator          : "-"
 name                     : &name "MingkaiLi"
 description              : &description "I graduated from Hohai University with a bachelor's degree in computer science and technology, and studied for a master's degree in artificial intelligence at the University of New South Wales."
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://ACD-KAY.github.io"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "MingkaiLi.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/MingkaiLi.github.io"
+repository               : "MingkaiLi.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
